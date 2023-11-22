@@ -1,0 +1,42 @@
+[
+  {
+    "formula": "1",
+    "opFormula": "ROCNI POPUST DOK - POPUST",
+    "active": "D"
+  },
+  {
+    "formula": "2",
+    "opFormula": "ROCNI POPUST - POPUST",
+    "active": "D"
+  },
+  {
+    "formula": "3",
+    "opFormula": "ROCNI POPUST - CENA",
+    "active": "D"
+  },
+  {
+    "formula": "4",
+    "opFormula": "Art, DS - cena",
+    "active": "D"
+  },
+  {
+    "formula": "5",
+    "opFormula": "Art, DS - popust",
+    "active": "D"
+  },
+  {
+    "formula": "6",
+    "opFormula": "Art, DS - vred. popust",
+    "active": "D"
+  },
+  {
+    "formula": "7",
+    "opFormula": "KOMITENT POPUST1 - POPUST",
+    "active": "D"
+  },
+  {
+    "formula": "8",
+    "opFormula": "BS, BZ - POPUST",
+    "active": "D"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "prioriteta": 10,
+    "nacin": "VSI",
+    "relacija": "NG",
+    "zapPogoj": 1,
+    "priorId": 5
+  },
+  {
+    "prioriteta": 48,
+    "nacin": "VSI",
+    "relacija": "NG",
+    "zapPogoj": 1,
+    "priorId": 4
+  },
+  {
+    "prioriteta": 49,
+    "nacin": "NVP",
+    "relacija": "OB",
+    "zapPogoj": 1,
+    "priorId": 3
+  },
+  {
+    "prioriteta": 50,
+    "nacin": "NVP",
+    "relacija": "OB",
+    "zapPogoj": 1,
+    "priorId": 2
+  },
+  {
+    "prioriteta": 90,
+    "nacin": "NVP",
+    "relacija": "OB",
+    "zapPogoj": 1,
+    "priorId": 6
+  },
+  {
+    "prioriteta": 100,
+    "nacin": "NVP",
+    "relacija": "VV",
+    "zapPogoj": 1,
+    "priorId": 1
+  }
+]

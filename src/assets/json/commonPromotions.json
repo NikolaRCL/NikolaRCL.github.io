@@ -1,0 +1,17 @@
+[
+  {
+    "type": 3,
+    "bipAkcProm": 1,
+    "biReason": "0001"
+  },
+  {
+    "type": 1,
+    "bipAkcProm": 2,
+    "biReason": "0002"
+  },
+  {
+    "type": 2,
+    "bipAkcProm": 3,
+    "biReason": "0003"
+  }
+]

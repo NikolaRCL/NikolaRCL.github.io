@@ -1,0 +1,68 @@
+[
+  {
+    "model": "1",
+    "opModel": "ROCNI POPUST DOK - POPUST",
+    "formula": "1",
+    "razlog": "0001",
+    "prioriteta": 48,
+    "aktiven": "D"
+  },
+  {
+    "model": "2",
+    "opModel": "ROCNI POPUST - POPUST",
+    "formula": "2",
+    "razlog": "0002",
+    "prioriteta": 49,
+    "aktiven": "D"
+  },
+  {
+    "model": "3",
+    "opModel": "ROCNI POPUST - CENA",
+    "formula": "3",
+    "razlog": "0003",
+    "prioriteta": 50,
+    "aktiven": "D"
+  },
+  {
+    "model": "4",
+    "opModel": "Art, DS - cena",
+    "formula": "4",
+    "razlog": "0004",
+    "prioriteta": 100,
+    "aktiven": "D"
+  },
+  {
+    "model": "5",
+    "opModel": "Art, DS - popust",
+    "formula": "5",
+    "razlog": "0004",
+    "prioriteta": 100,
+    "aktiven": "D"
+  },
+  {
+    "model": "6",
+    "opModel": "Art, DS - vred. popust",
+    "formula": "6",
+    "razlog": "0004",
+    "prioriteta": 100,
+    "aktiven": "D"
+  },
+  {
+    "model": "7",
+    "opModel": "BS, BZ - POPUST PRIORITETA 100",
+    "formula": "8",
+    "razlog": "0004",
+    "prioriteta": 100,
+    "opis": "BIKOMBS  BS, BZ - POPUST PRIORITETA 100\r\nBiKombs G model v BBISU",
+    "aktiven": "D"
+  },
+  {
+    "model": "8",
+    "opModel": "BS, BZ - POPUST PRIORITETA  90",
+    "formula": "8",
+    "razlog": "0004",
+    "prioriteta": 90,
+    "opis": "BIKOMBS  BS, BZ - POPUST PRIORITETA 90\r\nBiKombs P model v BBISU",
+    "aktiven": "D"
+  }
+]

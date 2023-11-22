@@ -1,0 +1,20 @@
+{
+  "storeId": "3000",
+  "documentHeader": {
+    "percentDiscount": 0
+  },
+  "documentLines": [
+    {
+      "item": {
+        "id": "100002",
+        "ean": "200000001002",
+        "vatPercent": 22,
+        "priceExcVAT": 2.4508,
+        "priceIncVAT": 2.99
+      },
+      "priceIncVatIncDiscount": 2.99,
+      "discount": 10,
+      "quantity": 1
+    }
+  ]
+}

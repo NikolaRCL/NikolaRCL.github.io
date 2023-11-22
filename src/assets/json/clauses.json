@@ -1,0 +1,26 @@
+[
+  {
+    "sifra": "0001",
+    "naziv": "Popust postavka",
+    "minVrednost": 0,
+    "vrsta1": "  * $DP% popust",
+    "maxVrednost": 0,
+    "tipKlavzule": "",
+    "vredPopust": 0,
+    "vredUveljOd": 0,
+    "grupAkcije": "N",
+    "napAkcija": "D"
+  },
+  {
+    "sifra": "0002",
+    "naziv": "Popust dokumnet",
+    "minVrednost": 0,
+    "vrsta1": "** Skupaj ste prejeli $PR€ popusta",
+    "maxVrednost": 0,
+    "tipKlavzule": "",
+    "vredPopust": 0,
+    "vredUveljOd": 0,
+    "grupAkcije": "D",
+    "napAkcija": "D"
+  }
+]
